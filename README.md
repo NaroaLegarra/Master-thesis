@@ -7,7 +7,7 @@ output: html_document
 
 # Predicting the cellular composition and molecular makeup of the neurovascular unit using machine learning methods
 
-This repository contains the code and datasets used in the master's thesis. 
+This repository contains the code used in the course of the master's thesis. 
 
 ## Code
 
